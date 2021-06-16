@@ -2,7 +2,7 @@
 I learn C# and I'm currently increasing my knoledges in WPF and Asp.net core applications.
 You can look projects I'm working on in the pinned repositories.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRajvandary&show_icons=true&theme=radical)
+
 
 
 

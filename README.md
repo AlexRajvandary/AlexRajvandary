@@ -6,7 +6,7 @@ You can look projects I'm working on in the pinned repositories.
 
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/{AlexRajvandary})
 <!--
 **AlexRajvandary/AlexRajvandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

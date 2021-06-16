@@ -5,7 +5,7 @@ You can look projects I'm working on in the pinned repositories.
 
 
 
-![Updated Badge](https://badges.pufler.dev/updated/AlexRajvandary)
+![Updated Badge](https://badges.pufler.dev/updated/AlexRajvandary/Chess)
 ![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AlexRajvandary)
 <!--

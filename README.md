@@ -3,6 +3,7 @@ I learn C# and I'm currently increasing my knoledges in WPF and Asp.net core app
 You can look projects I'm working on in the pinned repositories.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AlexRajvandary) 
+## 18.06.2021   2
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexRajvandary&repo=AlexRajvandary&countColorcountColor&countColor=%237B1E7A)
 
 

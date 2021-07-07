@@ -1,5 +1,5 @@
 ### Hi there 👋
-I learn C# and I'm currently increasing my knoledges in WPF and Asp.net core applications.
+I learn C# and working as junior C# developer.I'm currently increasing my knoledges in WPF and Asp.net core applications.
 You can look projects I'm working on in the pinned repositories.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AlexRajvandary) 

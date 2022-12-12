@@ -3,13 +3,6 @@ I am learning C# and working as junior C# developer. I'm currently increasing my
 You can look projects I'm working on in the pinned repositories.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AlexRajvandary) 
-## 22.06.2021   
-52
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexRajvandary&repo=AlexRajvandary&countColorcountColor&countColor=%237B1E7A)
-
-
-
-
 
 <!--
 **AlexRajvandary/AlexRajvandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

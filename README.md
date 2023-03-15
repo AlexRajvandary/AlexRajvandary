@@ -2,8 +2,6 @@
 🔭 I’m currently working on Job aggregator. The project consist of Desktop client, Wep Api and Web client. It allows you to find and analyze jobs, salaries and requirements.
 You can look other projects I'm working on in the pinned repositories.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AlexRajvandary) 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexRajvandary&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexRajvandary&theme=solarized_dark)

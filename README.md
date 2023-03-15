@@ -4,12 +4,9 @@ You can look other projects I'm working on in the pinned repositories.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexRajvandary&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexRajvandary&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexRajvandary&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexRajvandary&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexRajvandary&theme=solarized_dark)
 
 <!--
 **AlexRajvandary/AlexRajvandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

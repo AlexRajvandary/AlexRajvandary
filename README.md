@@ -1,9 +1,4 @@
-### Hi there 👋
-🔭 I’m currently working on Job aggregator.
-The project consists of Desktop client, Wep Api and Web client.
-It allows you to find and analyze jobs, salaries and requirements.
-You can look other projects I'm working on in the pinned repositories.
-
+### Hi there 👋 My name is Aleks!
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexRajvandary&theme=solarized_dark)
 
 <!--
